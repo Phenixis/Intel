@@ -1,4 +1,4 @@
 # Rôles
 Chef de projet : Maxime duhamel
 Sribe : Cyprien Albert
-Porte-parole : 
+Porte-parole : Raphaël Corre, Enzo Caz
