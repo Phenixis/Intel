@@ -2,6 +2,8 @@ Séance 1 :
 diagnostic externe de l'organisation (PESTEL)
 - Politiques :
 
+https://www.marketing-etudiant.fr/cours/i/matrice-pestel-intel.php
+
 Ils ont des engagements tels que :
 1) Atteindre des normes élevées de qualité environnementale et de sécurité de produits
 2) Offrir un lieu de travail sûr et santé à leurs employés, sous-traitants et leurs communautés
