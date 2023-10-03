@@ -11,3 +11,6 @@
 - conclusion sur les performances et labels obtenus par l’organisation
 
 SWOT
+
+
+CA, employés, rentabilité, ...

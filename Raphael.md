@@ -2,7 +2,7 @@ Intel est une entreprise technologique américaine renommée spécialisée dans 
 La société est largement connue pour ses processeurs Intel Core, qui sont largement utilisés dans les ordinateurs personnels et les serveurs.
 Intel joue un rôle essentiel dans le développement de technologies informatiques avancées et continue d'innover pour répondre aux besoins croissants du secteur de la technologie.
 
-Caractéritisque :
+Caractéritisques :
 
 -Dénomination sociale ou raison sociale
 -Finalité
@@ -36,7 +36,7 @@ Objectifs: les objectifs d'Intel englobent à la fois des aspects qualitatifs, t
 
 Nationalité: Intel est une entreprise américaine, basée aux États-Unis.
 
-Activité principale: L'activité principale d'Intel est la conception et la fabrication de microprocesseurs, de puces électroniques et de produits connexes pour les ordinateurs et les appareils électroniques.
+Activité principale: la conception et la fabrication de microprocesseurs, de puces électroniques et de produits connexes pour les ordinateurs et les appareils électroniques.
 
 Secteur d'activité: Intel opère principalement dans le secteur secondaire de l'économie.
 

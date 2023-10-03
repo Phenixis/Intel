@@ -15,3 +15,17 @@ Q°1 :
 
 Q°2 :
 partage de richesse puis Crise de 1929, 2GM
+
+
+$63 Milliards de revenus en 2022
+131 900 employés
+-1 930 000 de bénéfices avant intérêts et impôts
+
+
+# RSE
+## Energy
+Objectifs : Mutiplier par 10 leur efficacité énergitique de leurs produits pour les microprocesseurs clients et serveurs.
+Progrès en 2022 : Amélioration de l'efficacité énergitique de leurs produits clients (+43%) et serveurs (x2.2)
+
+## Water
+Objectif : bilan hydrique positif en conservant 60 milliards de litres d'eau
