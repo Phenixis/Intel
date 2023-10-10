@@ -25,7 +25,6 @@ Partie 2 : Analyse économique
 
     Le prix du pétrole a fait augmenter le prix de l’énergie et a fait baisser la valeur du Dollar.
 
-
     Intel a été contraint de réduire ses prix de vente pour pallier les problèmes économiques. En effet, la crise financière a fortement touché les Etats Unis et l’Europe. Donc Intel a dû se tourner vers le Brésil, la Russie, l’Inde, la Chine (BRIC) et bien d’autres marchés émergents pour tenter de compenser l’impact de la crise qui touchent les pays développés.
 
 Partie 3 : Analyse sociale
@@ -36,7 +35,7 @@ Partie 3 : Analyse sociale
     Intel est sponsor officiel du Club de Football de Barcelone le célèbre « FC Barcelona ». L’accord de 5 millions d’euros passé en décembre 2013 entre Intel et le Club Barcelonais sera valide jusqu’en 2018, et peut-être reconduit selon certaines rumeurs.
 
 
-    La technologie permet aujourd’hui de donner la possibilité de faire travailler les gens de leur domicile. Une manière de pouvoir recruter les plus qualifiés même s’ils sont aux quatre coins du monde.
+    L11a technologie permet aujourd’hui de donner la possibilité de faire travailler les gens de leur domicile. Une manière de pouvoir recruter les plus qualifiés même s’ils sont aux quatre coins du monde.
 
  
 Partie 4 : Analyse technologique
@@ -120,11 +119,11 @@ Partie 2 :
 
 Partie 3 : Menaces
 
-    Forte concurrence avec AMD sur ce marché de l’informatique.
-    Mise en place d’un grand nombre de lois au niveau international face à l’émergence du numérique et de l’informatique.
-    Ralentissement économique aux Etats Unis et en Europe dû à la crise financière.
-    Ralentissement de la croissance dans le segment du matériel informatique et des services professionnels.
-    Les comportements anti-concurrentiels d’Intel menacent encore l’Entreprise par de futurs procès potentiels.
+        Forte concurrence avec AMD sur ce marché de l’informatique.
+        Mise en place d’un grand nombre de lois au niveau international face à l’émergence du numérique et de l’informatique.
+        Ralentissement économique aux Etats Unis et en Europe dû à la crise financière.
+        Ralentissement de la croissance dans le segment du matériel informatique et des services professionnels.
+        Les comportements anti-concurrentiels d’Intel menacent encore l’Entreprise par de futurs procès potentiels.
 
  
 Partie 4 : Opportunités
