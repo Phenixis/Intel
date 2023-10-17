@@ -19,7 +19,7 @@ en utilisant la fabrication durable qui consiste en ube approche globale du proc
 
     La mondialisation permet le commerce des multinationales tel qu’Intel.
 
-    Intel est une entreprise multinationale opérant dans de nombreux pays très différents les uns des autres. Cette dernière doit donc gérer les besoins de ces différents pays en portant une attention particulière sur les règlementations contradictoires. Les pays n’ont, en effet, pas les mêmes lois ; par les mêmes pratiques financières etc… Les droits des travailleurs, la législation encadrant les brevets, les contrôles des exportations sont autant de facteurs qui ont besoin d’être pris en considération et qui diffèrent d’un pays à un autre. (analyse politique et légale)
+    Intel est une entreprise multinationale opérant dans de nombreux pays très différents les uns des autres. Cette dernière doit donc gérer les besoins de ces différents pays en portant une attention particulière sur les règlementations contradictoires. Tous ces pays n’ont pas les mêmes lois ; par les mêmes pratiques financières etc… Les droits des travailleurs, la législation encadrant les brevets, les contrôles des exportations sont autant de facteurs qui ont besoin d’être pris en considération et qui diffèrent d’un pays à un autre.
 
 Partie 2 : Analyse économique
 
@@ -104,19 +104,17 @@ Plan du document :
     III. Menaces
     IV. Opportunités
 
-Partie 1 : Forces
+Forces (Strengths)
+Solide capacité financière : 80 milliards de dollars de chiffre d’affaires en 2021 et plus de 100 000 salariés dans le monde entier.
+Investissement important dans la Recherche et le Développement: 15,2 milliards en 2021.
+Intel travaille avec la plupart des entreprises les plus rentables du monde comme Apple, Microsoft et les principaux constructeurs mondiaux.
+Intel est le fournisseur leader de processeurs informatiques sur ordinateurs de bureau, portables et tablettes.
+Faiblesses (Weaknesses)
+Intel est dépendant d’Apple, Microsoft, ainsi que les principaux constructeurs d’informatiques.
+Procès pour comportement anticoncurrentiel en 2005, en 2006 et en 2009.
+Forte baisse du nombre de clients des assembleurs et peu de demandes de matériels.
+Manque de rentabilité dans les domaines des pièces détachées du fait de la hausse du nombre d’ordinateurs non réparables par les magasins non spécialisés.
 
-    Solide capacité financière : Intel est une des plus grandes entreprises et une des plus rentables au monde. (Résultat : 15,3 milliards de Dollars en 2014, et plus de 100 000 salariés dans le monde entier)
-    Investissement important dans la Recherche et le développement (20% du chiffre d’Affaires) + 50 millions de dollars dans le domaine de l’informatique quantique.
-    Intel travaille avec la plupart des entreprises les plus rentables du monde APPLE, MICROSOFT et les principaux constructeurs mondiaux.
-    Intel est le fournisseur leader de processeurs informatiques sur ordinateurs de bureau, portables et tablettes.
-
-Partie 2 :
-
-    Intel se concentre principalement, voire uniquement, sur les grosses entreprises et est trop dépendant d’Apple, Microsoft, ainsi que les principaux constructeurs d’informatiques.
-    Les « 5 initiatives stratégiques » évoluent mal. En effet la mobilité subit un déficit de 4,2 milliards de dollars.
-    Beaucoup de procès pour comportement anti-concurrentiels en 2005, en 2006 et en 2009.
-    Forte baisse du nombre de clients des assembleurs, peu de demandes de matériels, et un vrai manque de rentabilité dans les domaines des pièces détachées du fait de la hausse du nombre d’ordinateurs « all in one » non réparables par les magasins non spécialisés.
 
 Partie 3 : Menaces
 
