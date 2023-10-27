@@ -1,0 +1,13 @@
+- page de garde
+  - Problématique (Intel réussit-elle à instaurer un développement durable écologiquement ? )
+- Sommaire
+- Intro
+  - Choix de l'entreprise
+  - réflexion -> problématique
+- Présentation de l'entreprise
+- Présentation de sa politique RSE
+  - Grands Axes
+  - Actions concrètes
+- Conclusion
+  - Entrep répond ou non à la problématique
+  - Perfs RSE (labels obtenus, indicateurs, partenaires, ...) 
