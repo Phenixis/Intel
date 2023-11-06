@@ -1,6 +1,6 @@
 Séance 1 :
 diagnostic externe de l'organisation (PESTEL)
-- Politiques :
+- Politiques : test
 
 https://www.marketing-etudiant.fr/cours/i/matrice-pestel-intel.php
 
