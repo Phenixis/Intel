@@ -6,7 +6,7 @@ Info sur le diapo :
             - impact positif sur la société
             - respecter l'environnement
         [[Diagramme_de_Venn]]
-- Concept de RSE : apparition en 53 -> [[historique_lois_RSE]](https://www.carenews.com/carenews-pro/news/rse-les-10-dates-marquantes)
+- Concept de RSE : apparition en 53 -> [[historique_lois_RSE]](https://www.carenews.com/carenews-pro/news/rse-les-10-dates-marquantes) test
 
 
 Q°1 :
